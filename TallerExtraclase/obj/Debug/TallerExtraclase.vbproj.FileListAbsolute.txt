@@ -1,0 +1,15 @@
+C:\Users\Rodriguez Ruiz\source\repos\TallerExtraclase\bin\Debug\TallerExtraclase.exe.config
+C:\Users\Rodriguez Ruiz\source\repos\TallerExtraclase\bin\Debug\TallerExtraclase.exe
+C:\Users\Rodriguez Ruiz\source\repos\TallerExtraclase\bin\Debug\TallerExtraclase.pdb
+C:\Users\Rodriguez Ruiz\source\repos\TallerExtraclase\bin\Debug\TallerExtraclase.xml
+C:\Users\Rodriguez Ruiz\source\repos\TallerExtraclase\obj\Debug\TallerExtraclase.Form1.resources
+C:\Users\Rodriguez Ruiz\source\repos\TallerExtraclase\obj\Debug\TallerExtraclase.Resources.resources
+C:\Users\Rodriguez Ruiz\source\repos\TallerExtraclase\obj\Debug\TallerExtraclase.vbproj.GenerateResource.cache
+C:\Users\Rodriguez Ruiz\source\repos\TallerExtraclase\obj\Debug\TallerExtraclase.vbproj.CoreCompileInputs.cache
+C:\Users\Rodriguez Ruiz\source\repos\TallerExtraclase\obj\Debug\TallerExtraclase.exe
+C:\Users\Rodriguez Ruiz\source\repos\TallerExtraclase\obj\Debug\TallerExtraclase.xml
+C:\Users\Rodriguez Ruiz\source\repos\TallerExtraclase\obj\Debug\TallerExtraclase.pdb
+C:\Users\Rodriguez Ruiz\source\repos\TallerExtraclase\obj\Debug\TallerExtraclase.Form2.resources
+C:\Users\Rodriguez Ruiz\source\repos\TallerExtraclase\obj\Debug\TallerExtraclase.vbprojAssemblyReference.cache
+C:\Users\Rodriguez Ruiz\source\repos\TallerExtraclase\obj\Debug\TallerExtraclase.Form3.resources
+C:\Users\Rodriguez Ruiz\source\repos\TallerExtraclase\obj\Debug\TallerExtraclase.Form4.resources
